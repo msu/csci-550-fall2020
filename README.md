@@ -35,7 +35,7 @@ After successfully completing this course, students will be able to:
 - [Zoom](https://zoom.us)
 - [Miro](https://miro.com)
 - Collaboration device (e.g. [Wacom one pen
-  table](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
+  tablet](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom))
 
 ## Textbook
 

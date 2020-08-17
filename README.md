@@ -18,7 +18,7 @@ David L. Millman, Ph.D.
 
 **Office hours**: **TODO**
 
-**Office**: **TODO**
+**Office**: Off campus until further notice
 
 **Github**: [dlm](https://github.com/dlm)
 

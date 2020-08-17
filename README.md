@@ -43,7 +43,7 @@ Required:
 
 * [Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd
 Edition](https://dataminingbook.info/book_html/) by Mohammed J. Zaki, Wagner
-Meira, Jr.,
+Meira, Jr., (DM below)
 
 
 Optional and highly recommended:

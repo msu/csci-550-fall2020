@@ -18,7 +18,7 @@ David L. Millman, Ph.D.
 
 **Office hours**: **TODO**
 
-**Office**: Barnard Hall 359
+**Office**: **TODO**
 
 **Github**: [dlm](https://github.com/dlm)
 

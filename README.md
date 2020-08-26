@@ -8,7 +8,7 @@ discovery of knowledge from a data set.
 
 ## Meeting Times
 
-Mon, Wed, Fri 09:00-09:50, Online
+Mon, Wed, Fri 09:00-09:50, [Online](https://www.google.com/url?q=https://us04web.zoom.us/j/74532365028?pwd%3DV3hOV040Q1d2VFA0SThkUDlxNVp3Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0S8d9uRPfR6jww-I0UsAD)
 
 ## Instructor
 

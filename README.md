@@ -96,7 +96,7 @@ See below for specific links.
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 08/24 | [Data: Prob View 1](./notes/2020-08-24.pdf)   |                                    |                                       | DM Ch 1.3     |                                                      | [1](https://montana.webex.com/recordingservice/sites/montana/recording/playback/423919c56f4f45ccb47b07d618cbc60a) of 1 |
 | 08/26 | [Data: Prob View 2](./notes/2020-08-26.pdf)   |                                    |                                       | DM Ch 1.4     |                                                      | [1](https://montana.box.com/s/1vy8l1q8uw3s6r68rbm638ppktrh6i0c) of 1  |
-| 08/28 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 08/28 |  Frequent Itemset                             |                                    |                                       | DM 8          |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 08/31 |                                               |                                    |                                       |               |                                                      |                                                                       |
 
@@ -162,8 +162,6 @@ See below for specific links.
 
 ### (Potential) Upcoming Topics:
 
-- data types dist, similarity, LA & Stats
-- Frequent itemset
 - Recommender systems
 - classification
 - clustering

@@ -98,7 +98,7 @@ See below for specific links.
 | 08/26 | [Data: Prob View 2](./notes/2020-08-26.pdf)   |                                    |                                       | DM Ch 1.4     |                                                      | [1](https://montana.box.com/s/1vy8l1q8uw3s6r68rbm638ppktrh6i0c) of 1  |
 | 08/28 | [Data: Prob View 3](./notes/2020-08-28.pdf)   | [HW 00](./hw/00.pdf)               |                                       | DM Ch 1.4     |                                                      | [1](https://montana.box.com/s/gei46ijj8y7yyg7mdydc5phdnkhkr2tc) of 1  |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 08/31 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 08/31 |                                               |                                    |                                       | DM Ch 8       | [miro](https://miro.com/app/board/o9J_kmCt3t8=/)     |                                                                       |
 
 ### Sept
 

@@ -129,11 +129,11 @@ See below for specific links.
 | 10/02 | [Cluster assess pt 1](./notes/2020-10-02.pdf) |                                    |                                       | DM Ch 17      |                                                      | [1](https://montana.box.com/s/jhzeeyeu9nyntyjdzc5o3k09z7bftxdd) of 1  |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 10/05 | [Cluster assess pt 2](./notes/2020-10-05.pdf) | [HW 02](./hw/02.md)                |                                       | DM Ch 17      |                                                      | [1](https://montana.box.com/s/q3y0p241uh1loc1eyy72q0lis7ym2hla) of 1  |
-| 10/07 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/09 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/07 | [Classification Tasks](./notes/2020-10-07.pdf)|                                    |                                       |               |                                                      | [1](https://montana.box.com/s/mache8st9hw1a4xmvg4umm5lsrr43z3d) of 1  |
+| 10/09 | [Decision Trees pt 1](./notes/2020-10-09.pdf) |                                    |                                       |               |                                                      | [1](https://montana.box.com/s/dmb53vg56ozmrtmlzu4xezrkdyv4rp2u) of 1  |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/12 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/14 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/12 | [Decision Trees pt 2](./notes/2020-10-12.pdf) |                                    |                                       |               |                                                      | [1](https://montana.box.com/s/7m2h8a5306xdwyi5qrd3btmr09k09hvp) of 1  |
+| 10/14 | [k-Nearest Neighbors](./notes/2020-10-14.pdf) |                                    |                                       |               |                                                      | [1](https://montana.box.com/s/z35cznx0i5if3em0gwpkniyvmn68hoda) of 1  |
 | 10/16 |                                               |                                    |                                       |               |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 10/19 |                                               |                                    | [HW 02](./hw02.md)                    |               |                                                      |                                                                       |
@@ -182,7 +182,7 @@ See below for specific links.
 
 Your grade for this class will be determined by:
 
-* 10% Quizzes (lowest quiz is dropped)
+* ~~10% Quizzes (lowest quiz is dropped)~~ (Removed due to technical constraints)
 * 50% Homework (lowest homework is dropped)
 * 15% [Group Presentation](./hw/present.md)
 * 25% [Group Project](./hw/proj.md)

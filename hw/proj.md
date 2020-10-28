@@ -8,7 +8,7 @@ Now, it is your time to do something with all these new ideas.
 You and a partner(s) get to define and drive the direction of the project. Note
 that it does not have to be research, but it should be at the very least
 something that, if successful, you can point to it in a job interview as a
-substantial project. You may be in groups of up to three. You do NOT need to
+substantial project. You may be in groups of up to four. You do NOT need to
 work with the same people as the topic presentation. The project is
 intentionally open ended but some places to help you get started are:
 

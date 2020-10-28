@@ -136,37 +136,36 @@ See below for specific links.
 | 10/14 | [k-Nearest Neighbors](./notes/2020-10-14.pdf) |                                    |                                       |               |                                                      | [1](https://montana.box.com/s/z35cznx0i5if3em0gwpkniyvmn68hoda) of 1  |
 | 10/16 | [Classify assess pt 1](./notes/2020-10-16.pdf)|                                    |                                       |               |                                                      | [1](https://montana.box.com/s/y3h7mpov2vrivt96gmf6ecymqdgmwkun) of 1  |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/19 | [Classify assess pt 2](./notes/2020-10-19.pdf)|                                    | [HW 02](./hw02.md)                    |               |                                                      | [1](https://montana.box.com/s/6mp8orhx68htl1ak1twf3hf3z585vmwb) of 1  |
+| 10/19 | [Classify assess pt 2](./notes/2020-10-19.pdf)|                                    | [HW 02](./hw/02.md)                   |               |                                                      | [1](https://montana.box.com/s/6mp8orhx68htl1ak1twf3hf3z585vmwb) of 1  |
 | 10/21 |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 10/23 |                                               |                                    |                                       |               |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/26 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/28 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 10/30 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 10/26 | NO CLASS - TECHNICAL ISSUES                   |                                    |                                       |               |                                                      |                                                                       |
+| 10/28 |                                               | [HW 03](./hw/03.md)                |                                       |               |                                                      |                                                                       |
+| 10/30 |                                               |                                    | [Present](./hw/present.md)            |               |                                                      |                                                                       |
 
 ### Nov
 
 | Date  | Description                                   | Assigned                           | Due                                   | Reading       | Links                                                | Video                                                                 |
 |-------|-----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------|
-| 11/02 | Gerrymandering                                |                                    |                                       |               |                                                      |                                                                       |
+| 11/02 | Gerrymandering                                |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
 | 11/04 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/06 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/06 |                                               |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/09 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/09 |                                               |                                    | [HW 03](./hw/03.md)                   |               |                                                      |                                                                       |
 | 11/11 | NO CLASS (Veteran's Day)                      |                                    |                                       |               |                                                      |                                                                       |
 | 11/13 |                                               |                                    |                                       |               |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 11/16 |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 11/18 |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 11/20 |                                               |                                    |                                       |               |                                                      |                                                                       |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/23 |                                               |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
 
 ### (Potential) Upcoming Topics:
 
-- Recommender systems
-- classification
-- clustering
-- topological data analysis
 - dim reduction
+- topological data analysis
 - data viz
 - differential privacy / ethics
 - compressed sensing

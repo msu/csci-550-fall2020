@@ -29,7 +29,7 @@ You will have two steps:
   two hours.
 
 * On the day of your presentation, arrive on Zoom at least five min early to be
-  ready to start on time. You may use between 30-45 min of the lecture period.
+  ready to start on time. You may use about 20 min of the lecture period.
   We will use the last five min to fill out a [feed back form]().
   Feel free to get creative. Your lecture may be interactive, you can have
   people work on problems, write code, discuss in groups, or anything else that

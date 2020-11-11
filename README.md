@@ -142,17 +142,18 @@ See below for specific links.
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 10/26 | NO CLASS - TECHNICAL ISSUES                   |                                    |                                       |               |                                                      |                                                                       |
 | 10/28 | Proj, Presentation, Hw 3                      | [HW 03](./hw/03.md)                |                                       |               |                                                      | [1](https://montana.box.com/s/59mubqayfs4q49qjg79rihntqsy2t60z) of 1  |
-| 10/30 |                                               |                                    | [Present](./hw/present.md)            |               |                                                      |                                                                       |
+| 10/30 | [Projections](./notes/2020-10-30.pdf)         |                                    | [Present](./hw/present.md)            | DM Ch 7       |                                                      | [1](https://montana.box.com/s/5lazon9ls2bmhm1tgzvyx1va0wu1ess3) of 1  |
+
 
 ### Nov
 
 | Date  | Description                                   | Assigned                           | Due                                   | Reading       | Links                                                | Video                                                                 |
 |-------|-----------------------------------------------|------------------------------------|---------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------------|
-| 11/02 | Gerrymandering                                |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
-| 11/04 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/06 |                                               |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
+| 11/02 | [PCA Pt 1](./notes/2020-11-02.pdf)            |                                    | [Proj](./hw/proj.md)                  | DM Ch 7       |                                                      | [1](https://montana.box.com/s/fwgi3yyiah7pan3oir39oqocb9uss8b2) of 1  |
+| 11/04 | [PCA Pt 2](./notes/2020-11-04.pdf)            |                                    |                                       | DM Ch 7       |                                                      | [1](https://montana.box.com/s/v024vigqpc26ayivwha9k58hjksulnq7) of 1  |
+| 11/06 | [Graph Data](./notes/2020-11-06.pdf)          |                                    | [Proj](./hw/proj.md)                  | DM Ch 4       |                                                      | [1](https://montana.box.com/s/3t7idho50hmc13ses8wncndd2nso7lgu) of 1  |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/09 |                                               |                                    | [HW 03](./hw/03.md)                   |               |                                                      |                                                                       |
+| 11/09 | [Centrality](./notes/2020-11-10.pdf)          |                                    | [HW 03](./hw/03.md)                   | DM Ch 4       |                                                      | [1](https://montana.box.com/s/wervutu5213zo979itqdmj2mtajcct9j) of 1  |
 | 11/11 | NO CLASS (Veteran's Day)                      |                                    |                                       |               |                                                      |                                                                       |
 | 11/13 |                                               |                                    |                                       |               |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
@@ -164,7 +165,6 @@ See below for specific links.
 
 ### (Potential) Upcoming Topics:
 
-- dim reduction
 - topological data analysis
 - data viz
 - differential privacy / ethics

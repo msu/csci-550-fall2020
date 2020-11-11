@@ -67,6 +67,13 @@ TBA after topics provided
 | Date  | Topic                                     | Group                             |
 |-------|-------------------------------------------|-----------------------------------|
 
+11/09
+11/13
+11/16
+11/18
+11/20
+
+
 ## Deliverables
 
 * Before midnight Friday Oct 30: email me with the following information: group

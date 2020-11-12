@@ -87,8 +87,6 @@ participation grade).
 | 11/20 A   | DBScan in implementation of sklearn       | Ian and Michael   |
 | 11/20 B   | Streaming with Kafka and Spark            | David and Peter   |
 |-----------|-------------------------------------------|-------------------|
-
-|-----------|-------------------------------------------|-------------------|
 | video     | Decision making (specifics TBD)           | Jiahui and Badr   |
 | video     | Outlier detection (specifics TBD)         | Daniel            |
 | video     | Time series (specifics TBD)               | Sam               |

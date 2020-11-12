@@ -92,6 +92,7 @@ participation grade).
 | video     | Time series (specifics TBD)               | Sam               |
 | video     | Subspace Clustering                       | Adiesha and Alex  |
 | video     | Probabilistic Algorithm (specifics TBD)   | Brad and Anna     |
+| video     | Linear Discriminant Analysis              | Siddat and Kaveen |
 |-----------|-------------------------------------------|-------------------|
 
 ## Deliverables

@@ -63,8 +63,8 @@ You will have two steps:
 ## Schedule
 
 Unfortunately, the shorter semester means that we will have to move a few
-presentations to be remote.  The first table lists the times for the in class
-presentation.  The second table lists the times for videos.  Please send me a
+presentations to be remote.  The first part of the table lists the times for the
+in class presentation.  The part lists the times for videos.  Please send me a
 link to your video (either on youtube, box, etc) by the start of class on Wed
 11/18 (and use the due dates for presenting on 11/18 and reflections are due
 11/22).

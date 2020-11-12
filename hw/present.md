@@ -62,17 +62,39 @@ You will have two steps:
 
 ## Schedule
 
-TBA after topics provided
+Unfortunately, the shorter semester means that we will have to move a few
+presentations to be remote.  The first table lists the times for the in class
+presentation.  The second table lists the times for videos.  Please send me a
+link to your video (either on youtube, box, etc) by the start of class on Wed
+11/18 (and use the due dates for presenting on 11/18 and reflections are due
+11/22).
 
-| Date  | Topic                                     | Group                             |
-|-------|-------------------------------------------|-----------------------------------|
+Everyone, between 11/18 and 11/20 please watch and give
+feedback to at least 3 videos (your feedback will be counted towards your
+participation grade).
 
-11/09
-11/13
-11/16
-11/18
-11/20
+| Date      | Topic                                     | Group             |
+|-----------|-------------------------------------------|-------------------|
+| 11/13 A   | Anomaly detection in intrusion detection  | Andrew and Kemal  |
+| 11/13 B   | Detecting fraudulent data                 | Cooper            |
+|           |                                           |                   |
+| 11/16 A   | Bayesian stats and Stan                   | DJ and Nate       |
+| 11/16 B   | Linear Regression Algos                   | Georgio and Kyle  |
+|           |                                           |                   |
+| 11/18 A   | Signal Processing with TDA                | Robin             |
+| 11/18 B   | Frequent Subgraphs                        | Ben               |
+|           |                                           |                   |
+| 11/20 A   | DBScan in implementation of sklearn       | Ian and Michael   |
+| 11/20 B   | Streaming with Kafka and Spark            | David and Peter   |
+|-----------|-------------------------------------------|-------------------|
 
+|-----------|-------------------------------------------|-------------------|
+| video     | Decision making (specifics TBD)           | Jiahui and Badr   |
+| video     | Outlier detection (specifics TBD)         | Daniel            |
+| video     | Time series (specifics TBD)               | Sam               |
+| video     | Subspace Clustering                       | Adiesha and Alex  |
+| video     | Probabilistic Algorithm (specifics TBD)   | Brad and Anna     |
+|-----------|-------------------------------------------|-------------------|
 
 ## Deliverables
 

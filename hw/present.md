@@ -73,7 +73,7 @@ Everyone, between 11/18 and 11/20 please watch and give
 feedback to at least 3 videos (your feedback will be counted towards your
 participation grade).
 
-| Date      | Topic                                     | Group                                                     |
+| Date      | Topic                                     | Group (click link to give feedback)                       |
 |-----------|-------------------------------------------|-----------------------------------------------------------|
 | 11/13 A   | Anomaly detection in intrusion detection  | [Andrew and Kemal](https://forms.gle/aYrUHCaKcbjW6d969)   |
 | 11/13 B   | Detecting fraudulent data                 | [Cooper](https://forms.gle/Te87gW8KDBgUe5ja6)             |

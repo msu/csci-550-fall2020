@@ -80,19 +80,19 @@ participation grade).
 |           |                                           |                                                           |
 | 11/16 A   | Bayesian stats and Stan                   | [DJ and Nate](https://forms.gle/eF5xUQKgeRKRmHY88)        |
 | 11/16 B   | Linear Regression Algos                   | [Georgio and Kyle](https://forms.gle/vqTJnATcSBT9rwRo7)   |
-|           |                                           |                   |
-| 11/18 A   | Signal Processing with TDA                | Robin             |
-| 11/18 B   | Frequent Subgraphs                        | Ben               |
-|           |                                           |                   |
-| 11/20 A   | DBScan in implementation of sklearn       | Ian and Michael   |
-| 11/20 B   | Streaming with Kafka and Spark            | David and Peter   |
-|-----------|-------------------------------------------|-------------------|
-| video     | Decision making (specifics TBD)           | Jiahui and Badr   |
-| video     | Outlier detection (specifics TBD)         | Daniel            |
-| video     | Time series (specifics TBD)               | Sam               |
-| video     | Subspace Clustering                       | Adiesha and Alex  |
-| video     | Probabilistic Algorithm (specifics TBD)   | Brad and Anna     |
-| video     | Linear Discriminant Analysis              | Siddat and Kaveen |
+|           |                                           |                                                           |
+| 11/18 A   | Signal Processing with TDA                | [Robin](https://forms.gle/XSkgTJM2uoHRs6P1A)              |
+| 11/18 B   | Frequent Subgraphs                        | [Ben](https://forms.gle/3FgiBLPvacJ6LAPV6)                |
+|           |                                           |                                                           |
+| 11/20 A   | DBScan in implementation of sklearn       | [Ian and Michael](https://forms.gle/UNT7S2V38BetfK6VA)    |
+| 11/20 B   | Streaming with Kafka and Spark            | [David and Peter](https://forms.gle/dAjb6MiHXk5fuy9o9)    |
+|-----------|-------------------------------------------|-----------------------------------------------------------|
+| video     | Decision making (specifics TBD)           | [Jiahui and Badr](https://forms.gle/C9b7KXYFohcpuje2A)    |
+| video     | Outlier detection (specifics TBD)         | [Daniel](https://forms.gle/3s7MnXKZGENyoDAq6)             |
+| video     | Time series (specifics TBD)               | [Sam](https://forms.gle/RGZuCLqj59qECV886)                |
+| video     | Subspace Clustering                       | [Adiesha and Alex](https://forms.gle/ZUR7r3NQHMGX7m1q7)   |
+| video     | Probabilistic Algorithm (specifics TBD)   | [Brad and Anna](https://forms.gle/5v7XFJvCwaFThWfj7)      |
+| video     | Linear Discriminant Analysis              | [Siddat and Kaveen](https://forms.gle/cFX1qWwUs8kz2Zyk6)  |
 |-----------|-------------------------------------------|-------------------|
 
 ## Deliverables

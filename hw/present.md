@@ -30,7 +30,7 @@ You will have two steps:
 
 * On the day of your presentation, arrive on Zoom at least five min early to be
   ready to start on time. You may use about 20 min of the lecture period.
-  We will use the last five min to fill out a [feed back form]().
+  We will use the last five min to fill out a feed back form(see below for links).
   Feel free to get creative. Your lecture may be interactive, you can have
   people work on problems, write code, discuss in groups, or anything else that
   you think may help you to introduce the class to your topic.
@@ -73,11 +73,11 @@ Everyone, between 11/18 and 11/20 please watch and give
 feedback to at least 3 videos (your feedback will be counted towards your
 participation grade).
 
-| Date      | Topic                                     | Group             |
-|-----------|-------------------------------------------|-------------------|
-| 11/13 A   | Anomaly detection in intrusion detection  | Andrew and Kemal  |
-| 11/13 B   | Detecting fraudulent data                 | Cooper            |
-|           |                                           |                   |
+| Date      | Topic                                     | Group                                                     |
+|-----------|-------------------------------------------|-----------------------------------------------------------|
+| 11/13 A   | Anomaly detection in intrusion detection  | [Andrew and Kemal](https://forms.gle/aYrUHCaKcbjW6d969)   |
+| 11/13 B   | Detecting fraudulent data                 | [Cooper](https://forms.gle/Te87gW8KDBgUe5ja6)             |
+|           |                                           |                                                           |
 | 11/16 A   | Bayesian stats and Stan                   | DJ and Nate       |
 | 11/16 B   | Linear Regression Algos                   | Georgio and Kyle  |
 |           |                                           |                   |

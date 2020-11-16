@@ -78,7 +78,7 @@ participation grade).
 | 11/13 A   | Anomaly detection in intrusion detection  | [Andrew and Kemal](https://forms.gle/aYrUHCaKcbjW6d969)   |
 | 11/13 B   | Detecting fraudulent data                 | [Cooper](https://forms.gle/Te87gW8KDBgUe5ja6)             |
 |           |                                           |                                                           |
-| 11/16 A   | Bayesian stats and Stan                   | [DJ and Nate](https://forms.gle/eF5xUQKgeRKRmHY88)        |
+| 11/16 A   | Bayesian stats and Stan                   | [DJ and Nate](https://forms.gle/9AiwTuSvBoCCAof19)        |
 | 11/16 B   | Linear Regression Algos                   | [Georgio and Kyle](https://forms.gle/vqTJnATcSBT9rwRo7)   |
 |           |                                           |                                                           |
 | 11/18 A   | Signal Processing with TDA                | [Robin](https://forms.gle/XSkgTJM2uoHRs6P1A)              |

@@ -85,7 +85,7 @@ participation grade).
 | 11/18 B   | Frequent Subgraphs                        | [Ben](https://forms.gle/3FgiBLPvacJ6LAPV6)                |
 |           |                                           |                                                           |
 | 11/20 A   | DBScan in implementation of sklearn       | [Ian and Michael](https://forms.gle/UNT7S2V38BetfK6VA)    |
-| 11/20 B   | Streaming with Kafka and Spark            | [David and Peter](https://forms.gle/dAjb6MiHXk5fuy9o9)    |
+| 11/20 B   | Streaming with Kafka                      | [David and Peter](https://forms.gle/dAjb6MiHXk5fuy9o9)    |
 |-----------|-------------------------------------------|-----------------------------------------------------------|
 | video     | Decision making (specifics TBD)           | [Jiahui and Badr](https://forms.gle/C9b7KXYFohcpuje2A)    |
 | video     | Outlier detection (specifics TBD)         | [Daniel](https://forms.gle/3s7MnXKZGENyoDAq6)             |

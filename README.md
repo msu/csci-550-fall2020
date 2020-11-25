@@ -155,13 +155,22 @@ See below for specific links.
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
 | 11/09 | [Centrality](./notes/2020-11-10.pdf)          |                                    | [HW 03](./hw/03.md)                   | DM Ch 4       |                                                      | [1](https://montana.box.com/s/wervutu5213zo979itqdmj2mtajcct9j) of 1  |
 | 11/11 | NO CLASS (Veteran's Day)                      |                                    |                                       |               |                                                      |                                                                       |
-| 11/13 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/13 | [Intrusion detection](./notes/2020-11-13a.pdf), [Fake Data Detection](./notes/2020-11-13b.pdf)                             |||             |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/16 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/18 |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/20 |                                               |                                    |                                       |               |                                                      |                                                                       |
+| 11/16 | [Stan](./notes/2020-11-16a.pdf),[Regression](./notes/2020-11-16b.pdf)              |                                       |||             |                                                      |                                                                       |
+| 11/18 | [Frequent Subgraph](./notes/2020-11-18a.md), [Timeseries and TDA](./notes/2020-11-18b.pdf)                                 |||             |                                                      |                                                                       |
+| 11/20 | [Implementing DBScan](./notes/2020-11-20a.pdf), [Streaming with Kafka](./notes/2020-11-20b.pdf)                            |||             |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| 11/23 |                                               |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
+| 11/23 | Project Presentations                         |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
+| 11/25 | Project Presentations                         |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
+|       |                                               |                                    |                                       |               |                                                      |                                                                       |
+| video | [(AWAITING CONTENT) Decision making](./notes/2020-11-18c.pdf)
+| video | [(AWAITING CONTENT) Outlier detection](./notes/2020-11-18d.pdf)
+| video | [Time series](./notes/2020-11-18e.pdf)
+| video | [Subspace Clustering](./notes/2020-11-18f.pdf)
+| video | [Locality Sensitive Hashing](./notes/2020-18g.pdf)
+| video | [Linear Discriminant Analysis](./notes/2020-11-18h.pdf)
+|
 
 ### (Potential) Upcoming Topics:
 

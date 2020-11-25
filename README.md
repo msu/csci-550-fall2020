@@ -164,7 +164,7 @@ See below for specific links.
 | 11/23 | Project Presentations                         |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
 | 11/25 | Project Presentations                         |                                    | [Proj](./hw/proj.md)                  |               |                                                      |                                                                       |
 |       |                                               |                                    |                                       |               |                                                      |                                                                       |
-| video | [(AWAITING CONTENT) Decision making](./notes/2020-11-18c.pdf)
+| video | [Decision making](./notes/2020-11-18c.pdf)
 | video | [(AWAITING CONTENT) Outlier detection](./notes/2020-11-18d.pdf)
 | video | [Time series](./notes/2020-11-18e.pdf)
 | video | [Subspace Clustering](./notes/2020-11-18f.pdf)
